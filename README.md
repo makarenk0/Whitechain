@@ -7,7 +7,7 @@ forge build
 ```
 
 ### Deploy into Whitechain Testnet
-```bash
+
 # Dry run
 forge script script/Deploy.s.sol \
   --rpc-url $WHITECHAIN_RPC_URL \
