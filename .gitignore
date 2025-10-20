@@ -1,0 +1,5 @@
+cache/
+out/
+.env
+/.vs
+/lib/openzeppelin-contracts
